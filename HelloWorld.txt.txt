@@ -1,4 +1,4 @@
 My testing of Git-1
 My testing of Git-2
 My testing of Git-3
-My testing of Git-Final -- Not Accepted by Team.
+My testing of Git-Final -- Not Accepted by Team. - OK message received.
